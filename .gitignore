@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Model weights
+*.pt
+
+# Environment
+.env
+venv/
+ENV/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Output
+*.out
+*.tmp
+
+# Test
+coverage/
+
+# Ultralytics cache
+ultralytics_cache/
